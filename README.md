@@ -23,17 +23,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/rishumehra" target="blank"><img src="https://img.shields.io/twitter/follow/rishumehra?logo=twitter&style=for-the-badge" alt="rishumehra" /></a> </p>
 
-- 📝 I regularly write articles on [justmyslide.com](justmyslide.com)
+- 📝 I regularly write tech blogs on [justmyslide.com](http://justmyslide.com/)
 
-- 💬 Ask me about **Technical Writing, Markdown, AsciiDocs, Docs-as-code**
+- 💬 Ask me about creating **API documentation**, **Product documentation**, **SDK/CLI documentation**, and **Technical Documentation** with **Docs-as-Code** philosophies using **Git/GitHub**, **Markdown**, **AsciiDoc**, **HTML/CSS/JavaScript**, and **Agile methods**
 
-- 🌱 I’m currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+- 🌱 I’m currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a>
 
 - 📫 How to reach me **rishumehra@outlook.com**
 
 - 😄 Pronouns: he/his/him
 
 - ⚡ Fun fact **Netflix and chill**
+
+- You can see my [resume](https://github.com/rishumehra/rishumehra/blob/main/Rishu-Tech-Writer-Resume.pdf) and [cover letter](https://github.com/rishumehra/rishumehra/blob/main/Cover-letter-Rishu.pdf). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
