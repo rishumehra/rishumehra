@@ -46,3 +46,18 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+## Companies I have worked with:
+
+![BrowserStack](https://github.com/rishumehra/rishumehra/assets/3268242/f3f11573-7de3-4a41-88ed-95f4029478ae)
+
+![Red Hat](https://github.com/rishumehra/rishumehra/assets/3268242/68bdc195-e25c-4919-8bcb-ea285a8315cd)
+
+![Tech Mahindra](https://github.com/rishumehra/rishumehra/assets/3268242/f3d810f8-7c95-4d3a-9dec-68396b107df5)
+
+![Ittiam Systems](https://github.com/rishumehra/rishumehra/assets/3268242/840805c1-2afb-4b2e-bda3-26bb961155d1)
+
+![Accenture](https://github.com/rishumehra/rishumehra/assets/3268242/55b8a6b0-ff89-466c-a8bd-28e1582e02ce)
+
+![SolarWinds](https://github.com/rishumehra/rishumehra/assets/3268242/6d3687e3-9dd4-4c10-bdf3-5d94f4b797d7)
+
+![SapientNitro](https://github.com/rishumehra/rishumehra/assets/3268242/f66fa38c-68ec-473d-bfaf-f6bee1b434df)
