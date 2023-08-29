@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a>
 
-- 📫 How to reach me mail me at **rishu.techwriter@gmail.com** or **rishumehra@outlook.com** or send an invite: https://calendly.com/rishumehra/45min
+- 📫 How to reach me? Mail me at **rishu.techwriter@gmail.com** or **rishumehra@outlook.com** or send an invite: https://calendly.com/rishumehra/45min
 
 - 😄 Pronouns: he/his/him
 
