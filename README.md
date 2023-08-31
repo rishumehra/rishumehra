@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me?
   - Mail me at: rishu.techwriter@gmail.com or rishumehra@outlook.com
-  - Block my calendar for a discussion: https://calendly.com/rishumehra/45min
+  - Block my calendar: https://calendly.com/rishumehra/45min
 
 - 😄 Pronouns: he/his/him
 
