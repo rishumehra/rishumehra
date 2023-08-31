@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a>
 
-- 📫 How to reach me? Mail me at **rishu.techwriter@gmail.com** or **rishumehra@outlook.com** or send an invite: https://calendly.com/rishumehra/45min
+- 📫 How to reach me?
+  - Mail me at: rishu.techwriter@gmail.com or rishumehra@outlook.com
+  - Block my calendar for a discussion: https://calendly.com/rishumehra/45min
 
 - 😄 Pronouns: he/his/him
 
-- ⚡ Fun fact **Netflix and chill**
+- ⚡ Fun fact: **Netflix and chill**
 
 -  :page_facing_up: You can see my [resume](https://github.com/rishumehra/rishumehra/blob/main/Rishu-Tech-Writer-Resume.pdf) and [cover letter](https://github.com/rishumehra/rishumehra/blob/main/Cover-letter-Rishu.pdf). 
 
