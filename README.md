@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 ## Companies I have worked with:
 
+![Ivanti](https://github.com/rishumehra/rishumehra/assets/3268242/f498eeb0-ef02-4535-a890-4f6809d6ce2a)
+
 ![BrowserStack](https://github.com/rishumehra/rishumehra/assets/3268242/f3f11573-7de3-4a41-88ed-95f4029478ae)
 
 ![Red Hat](https://github.com/rishumehra/rishumehra/assets/3268242/68bdc195-e25c-4919-8bcb-ea285a8315cd)
